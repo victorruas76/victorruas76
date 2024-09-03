@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o Victor Ruas 👋
 
 
 - 🔭 Analista de Business Intelligence (BI)
